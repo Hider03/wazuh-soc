@@ -1,3 +1,5 @@
+# Wazuh Self-Hosted SOC & Vulnerability Management Lab
+
 This is a personal lab that I started. I started it because I wanted to learn more about SOC operations. I already had a Proxmox set up with two VM's (one for media and the other for infrastructure). So I decided to deploy another VM and install an open source application called Wazuh to monitor the other VM's.
 
 So the set up would look like this
@@ -16,8 +18,3 @@ The goals of this project are as follows
 3. Write detailed incident reports on vulnerabilities that I find
 4. Deploy vulnerable VM's like Metasploitable and tinker with the issues that arise
 5. learn more...
-
-
-
-# wazuh-soc
-# wazuh-soc
